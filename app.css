@@ -2,6 +2,9 @@
     background-color: gray
 }
 
+.red {
+    background-color:red;
+}
 .show-grid {
     margin-bottom: 15px;
     text-align: center;
